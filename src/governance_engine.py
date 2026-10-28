@@ -1,7 +1,7 @@
 """
 Project: TalentBridge SH-HK (滬港賢智匯) - HR AI Governance Engine
 Framework Alignment: HK PDPO, Mainland China PIPL, ISO/IEC 42001
-Author: jojackylaw (Jacky Law)
+Author: 羅子淇 (Jacky Law)
 """
 
 import re
