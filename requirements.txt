@@ -1,0 +1,6 @@
+# TalentBridge HR AI Governance Engine - Dependencies
+# This MVP utilizes standard Python 3.8+ libraries to ensure zero-dependency deployment for enterprise environments.
+
+# Standard Libraries used:
+# - re (Regular Expressions for Data Scrubbing)
+# - json (JSON serialization for API simulation)
